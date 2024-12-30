@@ -408,7 +408,7 @@ const  typingIndicator = appendMessage(container, 'model', 'AI is typing...', 'r
               return null;
          }
  }
-const API_KEY = 'AIzaSyAA-XWex0j6pYQ9wTfwKm7tdWSDZtyIDoE'; // Replace with your actual API key.
+const API_KEY = '$APIKEY'; // Replace with your actual API key.
 const API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key='+API_KEY;
 
 
