@@ -5,14 +5,14 @@ This is a basic AI Helper type Bot which help the end user in solving the DSA Pr
 1) AI Dost Button with Toggle Functionality:
 The button is well-designed and toggles the visibility of the chatbox, providing a seamless UI experience.
 
-2)Interactive Chatbox:
+2) Interactive Chatbox:
 The chatbox opens when the button is clicked, giving users a space to interact with the chatbot.
 
-3)Chat History Persistence:
+3) Chat History Persistence:
 Saving chat history using chrome.storage.local ensures data persists even after page reloads.
 Loading chat history tied to a specific Problem ID is a great touch, allowing contextual discussions.
 
-4)Dynamic Initial Prompt:
+4) Dynamic Initial Prompt:
 Including the problem description in the initial prompt sets the context for AI responses effectively.
 Clear instructions for AI behavior ensure consistent and concise responses.
 
@@ -25,7 +25,7 @@ Giving users control over their chat data with a delete button enhances usabilit
 ## Author
 Rishabh Jain
 - [Author Website]()
-- [Author Github](ttps://github.com/rishbh/aiDost)
+- [Author Github](https://github.com/rishbh/aiDost)
 - [Project Repository](https://github.com/rishbh/aiDost)
 
 ## Requirements
