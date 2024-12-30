@@ -24,15 +24,14 @@ Giving users control over their chat data with a delete button enhances usabilit
 
 ## Author
 Rishabh Jain
-- [Author Website]()
-- [Author Github](https://github.com/rishbh/aiDost)
+- [Author Github](https://github.com/rishbh/)
 - [Project Repository](https://github.com/rishbh/aiDost)
 
-## Requirements
+### Requirements
 Nothing :)
 ### Knowledge
 - Logical Thinking and Thrill to make something on our own :)
-###Programming Language
+### Programming Language
 - Javascript
 ### Tools
 - Google Chrome Browser
